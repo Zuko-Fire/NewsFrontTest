@@ -1,0 +1,1 @@
+import '@testing-library/jest-dom'; // Расширение Jest для DOM-утверждений

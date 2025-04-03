@@ -1,0 +1,35 @@
+.post-card {
+  margin: 10px;
+}
+.post-card__header {
+  background-color: black;
+  color: white;
+}
+
+.post-card__chip {
+  margin: 5px;
+}
+
+.post-card__chip:hover {
+  box-shadow: inset 5em 1em rgb(163, 163, 163);
+}
+
+.post-card__text {
+  margin-top: 5px;
+  background-color: #747373;
+  border-radius: 5px;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.post-card:hover {
+  box-shadow: 10px 5px 5px #636363;
+}
+
+.post-card__media {
+  border: 2px solid#000000;
+}
+
+.post-card_date {
+  white-space: nowrap;
+}
